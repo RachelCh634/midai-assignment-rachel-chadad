@@ -1,0 +1,8 @@
+- I built a basic image with Python 3.10, added the NetFree code to prevent crashes at runtime, 
+wrote the required installations in the requirements.txt file, and added a command that installs the dependencies in it.
+- I created an image called midai-assignment
+
+To run the project from end to end, you must perform the following steps:
+Create the image using the command docker build -t midai-assignment .
+Run the image docker run -v midai-assignment
+

@@ -1,0 +1,73 @@
+Planning and Construction Document – ​​Single-Storey Residential Building
+
+1. Project Details
+
+Project Name: Residential House – Cohen Family
+
+Location: 12 Hakel Street, Kfar Yarok
+
+Chief Planner: Architect Miriam Levy
+
+Building Engineer: Engineer Yaakov Tzur
+
+Date: 21.05.2024
+
+2. General Description of the Building
+
+Built Area: 132 sq m
+
+Construction: Reinforced Concrete
+
+Roof: Flat, Two-Layer Bituminous Waterproofing
+
+External Walls: 20 cm Concrete Block + Thermal Plaster
+
+Internal Walls: 10 cm Gypsum Block
+
+Floor: 60x60 cm Porcelain Granite Flooring
+
+3. Frame Details
+
+Foundations: 6-meter-deep Concrete Columns
+
+Columns: B30 Concrete, 30x30 cm Section
+
+Beams: Concrete Beams B30, 8 mm diameter steel hoops every 20 cm
+
+Ceiling: 25 cm thick cast concrete ceiling
+
+4. Plumbing
+
+Water piping: 20 mm diameter PEX
+
+Sewerage system: 110 mm diameter PVC
+
+Connection to the municipal sewage system via a border inspection channel
+
+5. Electricity
+
+Infrastructure according to Israeli standard TI 1175
+
+Electrical panel: 3 phases, main current 40A
+
+Outlets: Standard plug socket every 3 meters
+
+Grounding: Grounding system according to standard TI 1601
+
+6. Standards and compliance
+
+Meets T.I. 413 standard – Earthquakes
+
+Meets T.I. 5281 – Green Building (Level 1)
+
+Load calculations according to TI 940
+
+7. Finishing materials
+
+Exterior plaster: Light gray acrylic coating
+
+Windows: Belgian aluminum, 22 mm insulated glass
+
+Interior doors: Water-resistant MDF
+
+Entrance door: Insulated steel with wood-look coating

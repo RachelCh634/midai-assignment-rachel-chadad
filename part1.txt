@@ -1,0 +1,5 @@
+- The output_with_boxes image is marked with the required BBoxes.
+- The Yolo model has been used by me in the past, so I copied from the repository that I previously cloned from https://github.com/ultralytics/yolov5 only the required file (yolov5u.pt)
+  I ran the script I created and saved the output in the results folder.
+- Based on the fact that the assignment was almost identical to the subject required for learning, it did not require any special work :)
+

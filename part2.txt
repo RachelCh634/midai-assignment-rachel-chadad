@@ -1,0 +1,5 @@
+The OPENAI model is a relatively simple model with clear documentation. I have used it in the past and enjoyed it, so I returned to use it again.
+I created a clear prompt that explained to the model what it should do, and emphasized that the answer would be in JSON format.
+After returning the answer, I wrote it to the specifications.json file in the results folder.
+
+I hope I understood the task correctly and that the output is accurate for the needs and purpose.
